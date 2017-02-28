@@ -1,0 +1,13 @@
+{
+    "name": "kayue/secoo",
+    "description": "Unofficial Secoo API",
+    "require": {
+        "guzzlehttp/guzzle": "^6.1"
+    },
+    "autoload": {
+        "php": ">=5.5",
+        "psr-4": {
+            "Kayue\\Secoo\\": "src/"
+        }
+    }
+}
